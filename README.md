@@ -53,9 +53,6 @@ A feature importance comparison between XGBoost and Random Forest showed that:
 •	Optimize the model further with hyperparameter tuning.
 •	Explore deep learning approaches for even better predictive accuracy.
 6. References
-•	Dataset source (if applicable)
-•	Machine Learning libraries used: Scikit-Learn, XGBoost, Pandas, Matplotlib
-•	Research papers/articles related to failure classification
 Dataset Link ;-https://drive.google.com/drive/folders/1bli9ylBYXaLqDUhHNZdFYv0IfUuw1aXX?usp=sharing
 ________________________________________
 Prepared by: SANJAY S
